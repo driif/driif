@@ -3,4 +3,4 @@
 
 ### :fire: My GitHub Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fedorchukandrii&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedorchukandrii&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedorchukandrii&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
