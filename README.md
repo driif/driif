@@ -6,5 +6,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=driif&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-### :computer:  Used languages for private projects:
+### :battery:  Used languages for private projects:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driif&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
